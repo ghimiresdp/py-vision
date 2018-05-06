@@ -1,4 +1,19 @@
-# work on progress
+"""
+Originally created by Sudip Ghimire [ https://github.com/ghimiresdp ]
+
+Color Detection by masking colors with Open CV
+The colors detected in sufficient lighting are as follows:
+    Blue
+    Pink
+    Orange
+    Violet
+    Green
+    Yellow
+    Red
+    Black
+
+
+"""
 
 import cv2
 import numpy as np
